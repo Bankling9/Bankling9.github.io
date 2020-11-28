@@ -1,4 +1,3 @@
-# Bankling9.github.io
 <?php
 	$praga=rand();
 	$praga=md5($praga);
